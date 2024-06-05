@@ -74,7 +74,6 @@ def find_max_score() -> tuple:
         print("No student information found.")
 
 # Function to add new student information
-student_infos=[]
 def add_new_student_info() -> None:
     """
     This function allows the user to add new student information
